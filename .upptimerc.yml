@@ -31,5 +31,8 @@ status-website:
     - title: Services Status
       href: /Services-Status
 
+assignees:
+  - ashish-khokhar
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
