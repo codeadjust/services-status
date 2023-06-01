@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 369,
-    "timeWeek": 112,
+    "time": 95,
+    "timeDay": 67,
+    "timeWeek": 109,
     "timeMonth": 92,
-    "timeYear": 96,
+    "timeYear": 95,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 143,
-    "timeWeek": 206,
-    "timeMonth": 205,
-    "timeYear": 232,
+    "time": 231,
+    "timeDay": 186,
+    "timeWeek": 222,
+    "timeMonth": 202,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 396,
-    "timeWeek": 328,
-    "timeMonth": 287,
-    "timeYear": 303,
-    "dailyMinutesDown": {
-      "2023-05-31": 6
-    }
+    "time": 307,
+    "timeDay": 463,
+    "timeWeek": 356,
+    "timeMonth": 293,
+    "timeYear": 307,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 147,
-    "timeWeek": 97,
-    "timeMonth": 128,
-    "timeYear": 133,
+    "time": 131,
+    "timeDay": 76,
+    "timeWeek": 94,
+    "timeMonth": 127,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 257,
-    "timeWeek": 84,
-    "timeMonth": 127,
-    "timeYear": 142,
+    "time": 146,
+    "timeDay": 357,
+    "timeWeek": 122,
+    "timeMonth": 135,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 520,
-    "timeDay": 1188,
-    "timeWeek": 496,
-    "timeMonth": 507,
-    "timeYear": 520,
+    "time": 510,
+    "timeDay": 71,
+    "timeWeek": 492,
+    "timeMonth": 499,
+    "timeYear": 510,
     "dailyMinutesDown": {}
   }
 ]
