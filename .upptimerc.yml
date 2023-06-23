@@ -19,9 +19,6 @@ status-website:
   name: CodeAdjust Services Status
   introTitle: CodeAdjust Services Status
   introMessage: View CodeAdjust Services Status
-  navbar:
-    - title: Services Status
-      href: /services-status
 
 assignees:
   - ashish-khokhar
