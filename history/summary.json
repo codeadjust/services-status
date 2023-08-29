@@ -24,19 +24,19 @@
     "url": "https://cloud.codeadjust.com/robots.txt?$GITHUB_RUN_ID",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.codeadjust.com.ico",
     "slug": "code-adjust-cloud",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.97%",
-    "time": 458,
-    "timeDay": 462,
-    "timeWeek": 366,
-    "timeMonth": 387,
-    "timeYear": 458,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "79.21%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.84%",
+    "time": 460,
+    "timeDay": 504,
+    "timeWeek": 395,
+    "timeMonth": 396,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2023-08-29": 55
+      "2023-08-29": 299
     }
   }
 ]
