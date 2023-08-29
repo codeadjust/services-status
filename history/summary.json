@@ -1,42 +1,62 @@
 [
   {
     "name": "CodeAdjust Website",
-    "url": "https://www.codeadjust.com/",
+    "url": "https://www.codeadjust.com/robots.txt?$GITHUB_RUN_ID",
     "icon": "https://icons.duckduckgo.com/ip3/www.codeadjust.com.ico",
     "slug": "code-adjust-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.97%",
     "time": 136,
-    "timeDay": 206,
-    "timeWeek": 151,
+    "timeDay": 191,
+    "timeWeek": 150,
     "timeMonth": 137,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2023-08-29": 0
+      "2023-08-29": 48
     }
   },
   {
     "name": "CodeAdjust Cloud",
-    "url": "https://cloud.codeadjust.com/",
+    "url": "https://cloud.codeadjust.com/robots.txt?$GITHUB_RUN_ID",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.codeadjust.com.ico",
     "slug": "code-adjust-cloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.97%",
     "time": 458,
-    "timeDay": 470,
-    "timeWeek": 348,
-    "timeMonth": 383,
+    "timeDay": 463,
+    "timeWeek": 357,
+    "timeMonth": 385,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2023-08-29": 4
+      "2023-08-29": 51
+    }
+  },
+  {
+    "name": "CodeAdjust SSHKM",
+    "url": "https://sshkm.codeadjust.com/?$GITHUB_RUN_ID",
+    "icon": "https://icons.duckduckgo.com/ip3/sshkm.codeadjust.com.ico",
+    "slug": "code-adjust-sshkm",
+    "status": "down",
+    "uptime": "1.91%",
+    "uptimeDay": "1.91%",
+    "uptimeWeek": "1.91%",
+    "uptimeMonth": "1.91%",
+    "uptimeYear": "1.91%",
+    "time": 51,
+    "timeDay": 51,
+    "timeWeek": 51,
+    "timeMonth": 51,
+    "timeYear": 51,
+    "dailyMinutesDown": {
+      "2023-08-29": 0
     }
   }
 ]
