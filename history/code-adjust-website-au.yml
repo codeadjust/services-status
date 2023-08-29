@@ -1,7 +1,7 @@
-url: https://www.codeadjust.com.au/robots.txt
+url: https://www.codeadjust.com.au/robots.txt?$GITHUB_RUN_ID
 status: up
 code: 200
-responseTime: 158
-lastUpdated: 2023-08-28T23:12:33.054Z
+responseTime: 371
+lastUpdated: 2023-08-29T03:36:12.244Z
 startTime: 2023-04-22T04:56:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
