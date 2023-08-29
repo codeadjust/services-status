@@ -1,7 +1,7 @@
-url: https://www.codeadjust.com/
-status: down
-code: 403
-responseTime: 69
-lastUpdated: 2023-08-29T03:39:40.334Z
+url: https://www.codeadjust.com/robots.txt?$GITHUB_RUN_ID
+status: up
+code: 200
+responseTime: 143
+lastUpdated: 2023-08-29T04:27:14.662Z
 startTime: 2023-04-22T04:56:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
