@@ -4,9 +4,11 @@ repo: services-status # The name of this repository
 
 sites:
   - name: CodeAdjust Website
-    url: https://www.codeadjust.com/
+    url: https://www.codeadjust.com/robots.txt?$GITHUB_RUN_ID
   - name: CodeAdjust Cloud
-    url: https://cloud.codeadjust.com/
+    url: https://cloud.codeadjust.com/robots.txt?$GITHUB_RUN_ID
+  - name: CodeAdjust SSHKM
+    url: https://sshkm.codeadjust.com/?$GITHUB_RUN_ID
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
