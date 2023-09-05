@@ -10,11 +10,11 @@
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 139,
-    "timeDay": 251,
-    "timeWeek": 202,
+    "time": 140,
+    "timeDay": 250,
+    "timeWeek": 199,
     "timeMonth": 151,
-    "timeYear": 139,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2023-08-29": 48
     }
@@ -26,15 +26,15 @@
     "slug": "code-adjust-cloud",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "93.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.16%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.80%",
-    "time": 1055,
-    "timeDay": 7309,
-    "timeWeek": 4364,
-    "timeMonth": 2355,
-    "timeYear": 1055,
+    "time": 1053,
+    "timeDay": 743,
+    "timeWeek": 4363,
+    "timeMonth": 2370,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2023-09-03": 88,
       "2023-08-29": 299
