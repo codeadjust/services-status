@@ -1,7 +1,7 @@
 url: https://cloud.codeadjust.com/robots.txt?$GITHUB_RUN_ID
-status: up
-code: 200
-responseTime: 850
-lastUpdated: 2024-08-22T23:15:35.251Z
+status: down
+code: 530
+responseTime: 157
+lastUpdated: 2024-08-23T19:38:24.240Z
 startTime: 2023-04-22T05:54:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
